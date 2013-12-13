@@ -1,5 +1,5 @@
 // Spirytus is a toolkit for constructing web servers in conjunction with
-// Go's net/http without resorting to to fancy tricks like reflection or
+// Go's net/http without resorting to fancy tricks like reflection or
 // dependency injection.
 //
 // Spirytus can be hard to swallow and too much of it will make you blind.
